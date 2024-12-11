@@ -14,6 +14,7 @@ public class Merhaba {
             throw new RuntimeException(e);
         }
 
+        System.out.println("Merhaba 1");
 driver.quit();
     }
 }
