@@ -8,4 +8,5 @@ public class Student {
     private  String Soyad;
 private  String adress;
 private String number;
+private String mail;
 }
